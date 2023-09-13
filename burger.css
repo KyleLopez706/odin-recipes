@@ -1,0 +1,65 @@
+* {
+    background-color:lightgoldenrodyellow
+}
+
+div.container {
+    text-align: center;
+  }
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    margin: auto;
+  }
+
+div.miley {
+    text-align: center;
+  }
+  
+ul.sidney {
+    display: inline-block;
+    text-align: left;
+    margin: auto;
+  }
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1 {
+    font-size: 50px;
+    color: rgb(187, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(187, 0, 0);
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-weight:lighter;    
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(187, 0, 0);
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+ol {
+    font-size: 20px;
+    font-weight: lighter;
+}
